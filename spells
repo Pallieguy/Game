@@ -1,0 +1,6 @@
+TYPE	EX,EY	Name
+D	0.000000,0.000000	Magic Missile
+H	0.050000,0.000000	Soothing Mist
+D	-0.050000,0.000000	Fireball
+D	0.000000,-0.050000	Rock Spear
+D	0.000000,0.050000	Air Blast
