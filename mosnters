@@ -1,0 +1,45 @@
+NAME	LVL	XP	STR	DEX	CON	NUM	INT	RES	HP	EX,EY	IX,IY
+Pixie	1	5	1	1	1	1	1	1	180/180	0,0	0,0
+###The following are under development###
+Drako	2	10	12	0	7	P	50
+Sin	3	15	14	0	10	P	100
+Boo	4	20	0	16	13	M	150
+Delici	5	25	0	18	16	M	200
+Redcap
+Pooka
+Troll
+Ogre
+Gnome
+Elven Ranger
+Elven Mage
+Elven Noble
+Ghost
+Skeleton
+Vampire
+Zombie
+Fairy
+Succubus
+Demon
+Hellhound
+Wolf
+Bear
+Direwolf
+Dwarven Miner
+Dwarven Lord
+Dwarven Hunter
+Human Bandit
+Elven Bandit
+Dwarven Bandit
+Orc Marauder
+Orc Slinger
+Orc Warlock
+Gryphon
+Hydra
+Human Knight
+Human Swordsman
+Human Crosbowman
+Human Wizard
+Wyvern
+Dragon
+Manticore
+Gorgon
